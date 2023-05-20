@@ -197,11 +197,16 @@ button:hover {
         box-shadow: none;
     }
 
+
     .socer_wrapper,
     #summary_wrapper {
         width: 100%;
     }
-
+    
+    .socer_wrapper {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
     #summary_wrapper {
         padding: 1rem 1rem 1rem 1rem;
         flex: 1;
