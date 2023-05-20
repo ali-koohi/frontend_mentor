@@ -80,6 +80,7 @@ h1 {
 
 #score_status {
     margin-top: 2rem;
+    color: hsl(0, 0%, 100%);
 }
 
 #total_score {
